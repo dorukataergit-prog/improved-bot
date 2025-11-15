@@ -66,4 +66,5 @@ async def mem(ctx):
    # Daha sonra bu dosyayı bir parametre olarak gönderebiliriz!
     await ctx.send(file=picture)
 
-bot.run("MTQzMDU4MjQ4Mzc0MDUyODc5MQ.Gm98ZG.6JvyQUynpoEl_czALA0DziMWtOQtgX24H-98qw")
+
+bot.run("Add Your Discord Token Here")
